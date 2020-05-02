@@ -1,4 +1,6 @@
-var arCuMessages = [""Hi, I'm Sayeemm", "How can I help you", "You can share your problem with us", "We will try to solve it"];
+<script>//<![CDATA[
+
+var arCuMessages = ["Hi, I'm Saim", "How can I help you", "You can share your problem with us", "We will try to solve it"];
 
 var arCuLoop = false;
 
@@ -62,7 +64,7 @@ window.addEventListener('load', function() {
 
   arcItem.class = 'msg-item-facebook-messenger';
 
-  arcItem.title = 'Facebook';
+  arcItem.title = 'Massenger';
 
   arcItem.icon = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224 32C15.9 32-77.5 278 84.6 400.6V480l75.7-42c142.2 39.8 285.4-59.9 285.4-198.7C445.8 124.8 346.5 32 224 32zm23.4 278.1L190 250.5 79.6 311.6l121.1-128.5 57.4 59.6 110.4-61.1-121.1 128.5z"></path></svg>';
 
@@ -78,7 +80,7 @@ window.addEventListener('load', function() {
 
   arcItem.class = 'msg-item-telegram-plane';
 
-  arcItem.title = 'Telegram Chat';
+  arcItem.title = 'Teligram Chat ';
 
   arcItem.icon = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"></path></svg>';
 
