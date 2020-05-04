@@ -1,4 +1,4 @@
-var arCuMessages = ["Hi, I'm Saim", "How can I help you", "You can share your problem with us", "We will try to solve it"];
+var arCuMessages = ["Hi, I'm Sayeem", "How can I help you", "You can share your problem with us", "We will try to solve it"];
 
 var arCuLoop = false;
 
